@@ -1,0 +1,68 @@
+[
+    {
+        "spot_name": "Tarangban Falls",
+        "location": "Calbayog City, Samar",
+        "category": "Waterfalls",
+        "description": "Cascading waters flowing down rock formations deep in the lush tropical forest.",
+        "entrance_fee": "50.00",
+        "image": "tarangban.jpg",
+        "opening_hours": "6:00 AM - 5:00 PM",
+        "has_indoor_nav": "0",
+        "indoor_nav_details": null
+    },
+    {
+        "spot_name": "Bangon-Bugtong Falls",
+        "location": "Calbayog City, Samar",
+        "category": "Waterfalls",
+        "description": "A circular multi-tiered waterfall featuring a large deep pool ideal for swimming and diving.",
+        "entrance_fee": "50.00",
+        "image": "bangon.jpg",
+        "opening_hours": "6:00 AM - 5:00 PM",
+        "has_indoor_nav": "0",
+        "indoor_nav_details": null
+    },
+    {
+        "spot_name": "Malajog Beach",
+        "location": "Calbayog City, Samar",
+        "category": "Beaches",
+        "description": "Famous black sand beach offering scenic views, beach cottages, and zip-line rides.",
+        "entrance_fee": "20.00",
+        "image": "malajog.jpg",
+        "opening_hours": "24 Hours",
+        "has_indoor_nav": "0",
+        "indoor_nav_details": null
+    },
+    {
+        "spot_name": "Biri Rock Formations",
+        "location": "Biri, Northern Samar",
+        "category": "Rock Formations",
+        "description": "Monolithic rock sculptures carved over time by ocean waves and tectonic movements.",
+        "entrance_fee": "100.00",
+        "image": "biri.jpg",
+        "opening_hours": "5:00 AM - 6:00 PM",
+        "has_indoor_nav": "0",
+        "indoor_nav_details": null
+    },
+    {
+        "spot_name": "Sohoton Natural Bridge & Cave",
+        "location": "Basey, Samar",
+        "category": "Caves & Parks",
+        "description": "National park featuring stone bridges, subterranean rivers, and sprawling cave chambers.",
+        "entrance_fee": "150.00",
+        "image": "sohoton.jpg",
+        "opening_hours": "8:00 AM - 4:00 PM",
+        "has_indoor_nav": "1",
+        "indoor_nav_details": "Chamber 1: Entrance Hall -> Chamber 2: Cathedral Room -> Chamber 3: Subterranean River Dock"
+    },
+    {
+        "spot_name": "Capul Island Lighthouse",
+        "location": "Brgy. San Luis, Capul, Northern Samar",
+        "category": "Historical Sites",
+        "description": "The Capul Island Lighthouse (Faro de Isla Capul), situated on Titoog Point in San Luis, Northern Samar, is a historic 19th-century beacon guarding the western entrance of the San Bernardino Strait.",
+        "entrance_fee": "0.00",
+        "image": "1794062724_images.jpg",
+        "opening_hours": "",
+        "has_indoor_nav": "0",
+        "indoor_nav_details": ""
+    }
+]
